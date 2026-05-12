@@ -9,7 +9,7 @@ Module list of SheepMC - Create.
 ## Mod List
 
 ### Tech
-[ ] Create
-[ ] Create Aeronautics: https://modrinth.com/mod/create-aeronautics
-[ ] Create: Broken Bad: https://www.curseforge.com/minecraft/mc-mods/create-broken-bad
+- [ ] Create
+- [ ] Create Aeronautics: https://modrinth.com/mod/create-aeronautics
+- [ ] Create: Broken Bad: https://www.curseforge.com/minecraft/mc-mods/create-broken-bad
 
